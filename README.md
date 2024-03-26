@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Education & Experiences:</h3>
-<p align="left">
+<p align="left"> 건국대학교 응용통계학과 
 </p>
 
 
