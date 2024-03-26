@@ -7,7 +7,10 @@
 </p>
 
 <h3 align="left">Education & Experiences:</h3>
-<p align="left"> 건국대학교 응용통계학과 
+<p align="left"> 
+  Konkuk University - Department of Applied Statistics
+  Malaga University - Department of Computer Engineering (Exchange Student)
+  
 </p>
 
 
