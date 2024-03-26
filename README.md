@@ -8,7 +8,7 @@
 
 <h3 align="left">Education & Experiences:</h3>
 <p align="left"> 
-  Konkuk University - Department of Applied Statistics
+  Konkuk University - Department of Applied Statistics </br>
   Malaga University - Department of Computer Engineering (Exchange Student)
   
 </p>
