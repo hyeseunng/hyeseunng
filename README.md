@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Hyeseung</h1>
-
-
 <h3 align="left">Education & Experiences:</h3>
 <p align="left"> 
   Konkuk University - Department of Applied Statistics 2020.03 - 2024.08 </br>
