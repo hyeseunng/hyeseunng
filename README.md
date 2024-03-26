@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hyeseung</h1>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Education & Experiences:</h3>
 <p align="left"> 
   Konkuk University - Department of Applied Statistics </br>
