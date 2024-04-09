@@ -3,7 +3,7 @@
   Konkuk University - Department of Applied Statistics 2020.03 - 2024.08 </br>
   Malaga University - Department of Computer Engineering (Exchange Student) 2022.08 - 2023.02 </br>
   건국대학교 데이터사이언스 소모임 'KUGGLE' 9기 (부회장) 2023.08 - 2024.06 </br>
-  이연에프엔씨 정보분석팀 인턴 2024.01 - 2024.03 </br>
+  이연FnC 정보분석팀 인턴 2024.01 - 2024.03 </br>
   빅데이터 연합동아리 'BOAZ' 분석 부문 22기 2024.01 - Present
   
 </p>
