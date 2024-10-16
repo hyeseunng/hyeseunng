@@ -1,11 +1,10 @@
 <h3 align="left">Education & Experiences:</h3>
 <p align="left"> 
-  Konkuk University - Department of Applied Statistics 2020.03 - 2024.08 </br>
-  Malaga University - Department of Computer Engineering (Exchange Student) 2022.08 - 2023.02 </br>
-  건국대학교 데이터사이언스 소모임 'KUGGLE' 9기 (부회장) 2023.08 - 2024.06 </br>
-  이연FnC 정보분석팀 인턴 2024.01 - 2024.03 </br>
-  빅데이터 연합동아리 'BOAZ' 분석 부문 22기 2024.01 - Present </br>
-  Korea University -  Department of Industrial and Management Engineering DMQA Lab
+  Malaga University - Department of Computer Engineering (Exchange Student) Aug.2022 - Feb.2023 </br>
+  Konkuk University Data Science Study Group 'KUGGLE' 9th Generation (Vice President) Aug.2023 - Jun.2024 </br>
+  Intern at IYEON FnC Information Analysis Team Jan.2024 - Mar.2024 </br>
+  Big Data Club 'BOAZ' Analysis Track 22nd Generation Jan.2024 - Present </br>
+  Korea University - Department of Industrial and Management Engineering, DMQA Lab
   
 </p>
 
